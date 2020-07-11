@@ -1,0 +1,24 @@
+{
+  "name": "lenovo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chain.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
+    "http-server": "^0.12.3",
+    "react-native-validator-form": "^1.0.0",
+    "solc": "^0.6.10",
+    "web3": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
